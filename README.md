@@ -1,4 +1,4 @@
-This repository contains Tabitha Kennedy's work for STAT 545B Assignments.
+This repository contains Tabitha Kennedy's work for the STAT 545B Assignments.
 
 **Assignment B-1 Summary:**
 
